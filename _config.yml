@@ -7,22 +7,22 @@
 # Card settings
 card:
   # 디지털 명함에 표시될 이름입니다.
-  name: 홍길동
+  name: 김대영
   
   # 직함이나 직책을 나타냅니다.
-  title: 소프트웨어 엔지니어
+  title: IT / TECH - PC BUILDING
   
   # 연락 가능한 이메일 주소입니다.
-  email: hong@example.com
+  email: deshutz@naver.com
   
   # 연락 가능한 전화번호입니다.
-  phone: 010-1234-5678
+  phone: 010-2778-1052
   
   # 소속 회사나 조직명입니다.
-  company: 테크 주식회사
+  company: 무한시스템
   
   # 프로필 이미지의 URL입니다. 개인 식별이 가능한 이미지를 사용해야 합니다.
-  image: https://picsum.photos/200
+  image: https://phinf.pstatic.net/contact/20241018_124/1729262980713mfJGu_PNG/iQkwjWk5IvWOAX1r49OG3.png?type=s160
 
 # Display settings
 display:
